@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: Don't Die (At Your Desk)
+## Notes: Turn levels, discoveries, flights, and dungeon wipes into movement breaks.
+## Author: DontDie
+## Version: 0.1.0
+## SavedVariablesPerCharacter: DontDieDB
+
+Core.lua
+UI.lua
+Events.lua
